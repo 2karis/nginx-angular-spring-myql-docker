@@ -1,2 +1,2 @@
-# nginx-angular-spring-myql-docker
-nginx angular spring myql docker compose template
+# nginx-angular-spring-mysql-docker
+nginx angular spring mysql docker compose template
